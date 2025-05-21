@@ -17,3 +17,4 @@
 **Este proyecto es un excelente ejemplo de cómo aplicar análisis estadístico y visualización para tomar decisiones estratégicas en e-commerce.**
 
 ---
+**(LOS GRÁFICOS NO SE VEN PORQUE FUERON CREADOS CON PLOTLY-EXPRESS)**
